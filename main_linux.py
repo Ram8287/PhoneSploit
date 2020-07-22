@@ -10,7 +10,7 @@ import os
 import sys
 import random
 import time as  t
-from colorama import Fore, init
+from colorama import For, init
 
 reload(sys)
 sys.setdefaultencoding("utf-8")

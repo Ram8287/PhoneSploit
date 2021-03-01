@@ -23,7 +23,7 @@ python2 main.py
 
 # HOW TO INSTALL Linux
 ```
-git clone https://github.com/Zucccs/PhoneSploit
+git clone https://github.com/Ram8287/PhoneSploit
 cd PhoneSploit
 pip install colorama
 python2 main_linux.py
